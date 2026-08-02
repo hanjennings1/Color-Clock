@@ -1,0 +1,21 @@
+.clock-card {
+  padding: 100px 20px;
+  border-radius: 30px;
+  background: linear-gradient(#c1a1f3, #3c2561);
+  color: white;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.clock-time {
+  font-size: 90px;
+  font-weight: 700;
+  margin: 0.5em;
+}
+
+.clock-date {
+  font-size: 35px;
+  font-weight: 400;
+  margin-top: 12px;
+  letter-spacing: 2px;
+}
