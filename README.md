@@ -51,3 +51,7 @@ A dynamic digital clock widget built with React and Vite, using the `date-fns` l
 ## Notes
 
 This project was built as part of a Software Engineering lab exercise focused on React, JSX, and npm package management.
+
+## Screenshot
+
+![Color Clock App](./color-clock-screenshot.png)
